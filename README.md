@@ -1,3 +1,6 @@
+# React Redux Router Boilerplate with Material UI
+This boilerplate extends the 
+
 ## Installation
 
 ```bash
