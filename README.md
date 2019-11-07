@@ -1,5 +1,9 @@
 # React Redux Router Boilerplate with Material UI
-This boilerplate extends the 
+This boilerplate is built using [create-react-app](https://github.com/facebook/create-react-app) so you will want to read the User Guide for more goodies.
+
+* [React](https://reactjs.org/)
+* [Redux](https://redux.js.org/)
+* [Material UI](https://material-ui.com/)
 
 ## Installation
 
@@ -22,4 +26,3 @@ yarn
 yarn start
 ```
 
-This boilerplate is built using [create-react-app](https://github.com/facebook/create-react-app) so you will want to read the User Guide for more goodies.
