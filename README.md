@@ -13,7 +13,11 @@ cd create-react-app-redux
 yarn
 ```
 
-If you get the error #Error: Invariant failed you probably used npm to install the packages. Try to remove all node_modules and install them again using yarn. You can do so with the following commands.
+If you get the following error
+```bash
+Error: Invariant failed: You should not use <Route> outside a <Router>
+```
+You probably used npm to install the packages or to start the server. Try to remove all node_modules and install them again using yarn. You can do so with the following commands.
 
 ```bash
 rm -rf node_modules/
