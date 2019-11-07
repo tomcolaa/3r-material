@@ -1,7 +1,7 @@
 ## Installation
 
 ```bash
-git clone https://github.com/tomcolaa/CRA-redux-material.git
+git clone https://github.com/tomcolaa/3r-material.git
 cd create-react-app-redux
 yarn
 ```
